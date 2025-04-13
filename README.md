@@ -2,7 +2,7 @@
 
 A visual guide to understanding Kubernetes architecture and component relationships. This diagram helps developers and DevOps engineers understand how different parts of Kubernetes work together.
 
-![Kubernetes Architecture Flow Diagram](./image.png)
+![Kubernetes Architecture Flow Diagram](./assets/gif/index.gif)
 
 ## Architecture Components
 
