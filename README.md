@@ -39,6 +39,12 @@ This visualization aims to:
 - Illustrate network communication paths
 - Help in troubleshooting and system design
 
+## Support My Work
+
+If you find this Kubernetes architecture visualization helpful, you can support my work:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/akash_dk)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
